@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/ioangheraszim/blog-preview)
-- Live Site URL: [Live](https://ioangheraszim.github.io/blog-preview/)
+- Solution URL: [Solution](https://github.com/ioangheraszim/NFT-preview-card)
+- Live Site URL: [Live](https://ioangheraszim.github.io/NFT-preview-card/)
 
 ### Built with
 
